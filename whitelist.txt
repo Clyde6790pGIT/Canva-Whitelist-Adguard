@@ -1,1 +1,8 @@
 @@|static.canva.com$^important
+@@||canva.com^
+@@||www.canva.com^
+@@||static.canva.com^
+@@||api.canva.com^
+@@||brandfetch.io^ (Canva Logos )
+@@||usemessages.com^ (Chat/Support)
+@@||canva-cdn.com^
